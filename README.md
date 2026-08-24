@@ -86,6 +86,6 @@ This will automatically open a local web server in your default browser at http:
 
 [auditor.py] : Post-inference deterministic guardrails (escalating legal/GDPR threats to P0).
 
-[batch_runner.py] : Rich terminal UI and CSV artifact generator.
+[batch_runner.py] : Rich terminal UI and CSV artifact generator. Can handle original unseen dataset in all three formats (.txt, .csv, .json) 
 
 [web_app.py] : Streamlit frontend application.
